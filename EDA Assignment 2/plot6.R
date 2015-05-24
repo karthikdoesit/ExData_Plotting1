@@ -78,9 +78,3 @@ qplot(x, y, data=emissions, color=Location, geom=c("point", "line"), ylab="Total
 
 #Changing the graphics device back to screen
 dev.off()
-
-
-
-
-
-

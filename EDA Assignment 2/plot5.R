@@ -55,9 +55,3 @@ g + geom_line(color="red") + geom_point(color="blue") + labs(x="Year") + labs(y=
 
 #Changing the graphics device back to screen
 dev.off()
-
-
-
-
-
-
